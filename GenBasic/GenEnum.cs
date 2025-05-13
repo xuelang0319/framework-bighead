@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Text;
 
-namespace Bighead
+namespace framework_bighead.GenBasic
 {
     public class GenEnum : GenBasic
     {

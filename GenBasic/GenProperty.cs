@@ -8,7 +8,7 @@
 
 using System.Text;
 
-namespace Bighead
+namespace framework_bighead.GenBasic
 {
     public class GenProperty : GenBasic
     {
